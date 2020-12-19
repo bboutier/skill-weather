@@ -1,0 +1,3 @@
+# Réponse affirmative à une question comme "Est-ce qu'il va neiger à Paris demain après-midi"
+Oui, les prévisions pour {time} suggèrent {condition} à {location} pour {day}
+Oui, les prévisions pour {time} annoncent {condition} à {location} pour {day}

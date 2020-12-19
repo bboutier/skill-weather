@@ -1,0 +1,3 @@
+{day} le vent ne sera pas trop mauvais à {location}, aux environs de {wind} {wind_unit}
+Les prévisions pour {location} prévoient {wind} {wind_unit} {day}, ce n'est pas mal
+Vous pouvez vous attendre à un vent de {wind} {wind_unit} à {location} {day}

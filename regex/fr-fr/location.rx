@@ -1,1 +1,1 @@
-(à|à) (?P<Location>.*)
+.*\b(à|dans) (?P<Location>(?!\bcelsius\b|\bfahrenheit\b) *.+)

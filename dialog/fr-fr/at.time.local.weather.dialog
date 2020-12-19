@@ -1,0 +1,4 @@
+Il fera {condition}, avec des températures proche de {temp} dans le {time}
+{time}, il fera {condition} et environ {temp} degrés
+{time}, il fera {condition} et {temp} degrés
+à {time}, il fera {temp} degrés avec (du|de la) {condition}

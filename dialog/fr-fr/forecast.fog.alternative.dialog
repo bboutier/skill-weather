@@ -1,0 +1,6 @@
+# Informer qu'une alternative au brouillard se présentera
+Non, les prévisions pour le {day} à {location} appellent une {condition}
+Il semblait qu'il va avoir {condition} (sur|à) {location}{day}
+Oui, ça seras {condition} a {location} {day}
+Il y a de fortes chances que ce soit {condition} (à|sur) {location}
+il semblait qu'il va avoir {condition} (sur|à) {location}

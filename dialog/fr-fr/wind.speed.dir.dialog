@@ -1,2 +1,2 @@
-de {{speed}} {{unit}} du {{dir}}
-du {{dir}} à {{speed}} {{unit}}
+de {speed} {unit} du {dir}
+du {dir} à {speed} {unit}

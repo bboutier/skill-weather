@@ -1,0 +1,5 @@
+# Informer qu'une alternative au ciel dégagé se présentera
+#Non, les prévisions de {day} annoncent {condition} à {location}
+# Il ne devrait pas y avoir de nuages à {location} {day}, il semble qu'il y aura (du|de la) {condition}
+Il ne semble pas que ce soit le cas, il y a des chances que {location} ait (du|de la) {condition} {day}
+Cela ne semble pas être le cas, il y a des chances que ce soit {condition}

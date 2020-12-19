@@ -1,0 +1,4 @@
+# Lorsque l'utilisateur demande s'il pleut mais qu'aucune pluie ou autre n'est prévue
+Aucune tempête n'est prévue à {location} {day}
+{day}, il ne devrait pas y avoir d'orage à {location}
+Il est peu probable qu'il y ait une tempête {day} à {location}

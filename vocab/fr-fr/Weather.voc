@@ -1,7 +1,1 @@
-temps
-température
-quel froid
-quel froid
-combien froid
-combien chaud
-combien chaud
+(météo|temps)

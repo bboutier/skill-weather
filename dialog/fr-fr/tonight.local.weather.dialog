@@ -1,0 +1,4 @@
+Ce soir, il fera {condition}, avec des températures voisines de {temp}
+Plus tard il fera {condition} et environ {temp} degrés
+Ce soir, il fera {condition} et {temp} degrés
+Environ {temp} degrés avec {condition} ce soir

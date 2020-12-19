@@ -1,0 +1,4 @@
+Le vent est de {wind} {wind_unit} à {location}, un bonne raison pour rester chez soi
+Le vent est très fort aujourd'hui, {wind} {wind_unit}
+Le vent est très fort aujourd'hui à {location}, {wind} {wind_unit}
+{location} sera sous des vents assez forts aujourd'hui, {wind} {wind_unit}

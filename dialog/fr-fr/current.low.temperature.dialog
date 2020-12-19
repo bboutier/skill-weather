@@ -1,0 +1,2 @@
+la température minimale pour aujourd'hui sera de {temp_min} degrés {scale} à {location}.
+Aujourd'hui la température pourras chuter jusqu'à {temp_min} dégrée a {location}. 

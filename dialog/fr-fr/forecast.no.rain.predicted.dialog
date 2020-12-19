@@ -1,0 +1,5 @@
+# Lorsque l'utilisateur demande s'il pleut mais qu'aucune pluie ou autre n'est prévue
+Aucune pluie n'est prévue à {location} {day}
+{day}, il ne devrait pas pleuvoir à {location}
+Il n'est pas nécessaire d'avoir un parapluie à {location}
+Il n'est pas nécessaire d'avoir un parapluie à {location} {day}

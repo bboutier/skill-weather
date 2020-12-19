@@ -1,0 +1,5 @@
+# Quand l'utilisateur demande si c'est nuageux, mais ce n'est pas le cas
+Il ne semble pas qu'il y ait de nuages à {location} {day}
+Un ciel dégagé est prévu à {location} {day}
+Attendez-vous à un ciel dégagé à {location} {day}
+Il ne devrait pas y avoir de nuages à {location} {day}

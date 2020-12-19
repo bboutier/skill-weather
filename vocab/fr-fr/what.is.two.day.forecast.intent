@@ -1,0 +1,3 @@
+(météo|temps|prévision) pour {day_one} et {day_two}
+quel (sera|seront) (la|le|les) (météo|temps|prévisions) pour {day_one} et {day_two}
+comment sera la météo pour {day_one} et {day_two}

@@ -1,0 +1,4 @@
+# Lorsque l'utilisateur demande s'il neige mais qu'aucune neige ou autre n'est prévue
+Aucune neige n'est prévue à {location} {day}
+Il ne neigera pas à {location}
+Il ne devrait pas neiger à {location} {day}
