@@ -1805,7 +1805,7 @@ class WeatherSkill(MycroftSkill):
             # allow calls to unpack values even if None returned.
             return (None, None)
         when, text = extracted_dt
-        return to_utc(when), text
+        return to_local(when), text
 
     def __translate(self, condition, future=False, data=None):
         # behaviour of method dialog_renderer.render(...) has changed - instead
